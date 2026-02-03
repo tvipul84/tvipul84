@@ -1,3 +1,38 @@
+# Senior Software Engineer | 18+ Years Experience
+
+Building scalable, maintainable systems with modern architecture and AI-assisted development.
+
+## 🎯 Focus Areas
+
+- **Backend Engineering**: Java, Spring Boot, microservices architecture
+- **API Design**: RESTful APIs, JWT authentication, event-driven systems
+- **DevOps & Infrastructure**: CI/CD pipelines, containerization, cloud deployment
+- **Code Quality**: Clean code principles, comprehensive testing, design patterns
+- **AI-Enhanced Development**: Leveraging GitHub Copilot for productivity and code excellence
+
+## 💡 How I Use AI
+
+- **Copilot for Code Generation**: Accelerates boilerplate and test writing
+- **Smart Code Reviews**: AI assists in identifying patterns and potential improvements
+- **Test Coverage**: Generating comprehensive unit and integration tests faster
+- **System Design**: Brainstorming architectures and design trade-offs
+- **Documentation**: Creating clear, maintainable documentation at scale
+
+## 🛠 Tech Stack
+
+`Java` `Spring Boot` `Microservices` `REST APIs` `JWT` `Docker` `Kubernetes` `CI/CD` `PostgreSQL` `Redis`
+
+## 📈 Core Principles
+
+- Write code for humans first, machines second
+- Test-driven development for reliability
+- System design focused on scalability and maintainability
+- Continuous learning and AI tool optimization
+
+---
+
+*Open to collaborating on impactful backend systems and mentoring the next generation of engineers.*
+
 # Hi 👋 I’m Vipul Tailor  
 
 Seasoned technology professional with 18+ years of experience building and scaling enterprise software solutions, currently based in Kuala Lumpur, Malaysia.
